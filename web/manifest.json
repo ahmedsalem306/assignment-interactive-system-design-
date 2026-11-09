@@ -1,0 +1,9 @@
+{
+  "name": "Explore",
+  "short_name": "Explore",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F6F8FB",
+  "theme_color": "#20B8A6",
+  "description": "A simple three-page Flutter navigation assignment."
+}
